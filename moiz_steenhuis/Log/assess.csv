@@ -1,0 +1,9 @@
+Location,Weight,Vulnerability
+System,7,Command Injection
+Log,4,Firewalls Buffer Overflow
+Misc,2,Backup checks
+System,4,Firewalls Buffer Overflow
+Projects,7,Command Injection
+System,1,Password Check
+Python,2,Backup checks
+vpa.py,2,Backup checks

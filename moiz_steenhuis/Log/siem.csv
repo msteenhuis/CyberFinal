@@ -1,0 +1,6 @@
+Location,Weight,Vulnerability
+dog.jpg,5,Change user permissions
+Misc,3,User Authentication Alert
+System,8,Attack Event
+Log,3,Unauthorized File Access Attempt
+runner.jpg,5,Change user permissions
